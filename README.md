@@ -1,5 +1,5 @@
 # Random-Jokes-TTS
-A simple random joke program using jokes API and text-to-speech
+A simple random jokes program using a joke API and text-to-speech
 
 https://pypi.org/project/pyttsx3/
 
